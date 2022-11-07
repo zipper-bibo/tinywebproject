@@ -8,14 +8,14 @@
 #include <stdlib.h>
 #include <cassert>
 #include <sys/epoll.h>
-#include<signal.h>
-#include<cstring>
+#include <signal.h>
+#include <cstring>
 #define MAX_EVENT_NUMBER 1024
 #define MAX_BUFFER_SIZE 1024
 #define MAX_FD 65536
-#include<time.h>
+#include <time.h>
 #include "timer.h"
-#include"http_conn.h"
+#include "http_conn.h"
 
 #define TIMESLOT 5
 
@@ -64,6 +64,7 @@ void addsig(int sig, void(handler)(int), bool restart = true)
 }
 
 
+
 int main(int argc,char*argv[])
 {
     
@@ -107,7 +108,7 @@ int main(int argc,char*argv[])
 	client_data *users_timer = new client_data[MAX_FD]; //user-timer-timer   
 	http_conn*users=new http_conn[MAX_FD];
 	http_conn::m_epollfd=epollfd;
-	//alarm(TIMESLOT);
+	alarm(TIMESLOT);
     bool stop_server=false;
 	bool timeout=false;
 
@@ -261,8 +262,8 @@ int main(int argc,char*argv[])
 	 	}//event circle
 	 
 	 if(timeout)
-	 {
-		 //timer_handler();
+	 { 
+		 timer_handler();
 
 		 timeout=false;
 	 }

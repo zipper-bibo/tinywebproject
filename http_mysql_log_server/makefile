@@ -1,0 +1,7 @@
+server: main.cpp  http_conn.cpp http_conn.h sql_connectionpool.cpp sql_connectionpool.h	lock.h log.cpp log.h blockqueue.h timer.h
+	g++ -g -o server main.cpp http_conn.cpp log.cpp sql_connectionpool.cpp -lpthread `mysql_config --cflags --libs`  
+
+
+clean:
+	rm  -r server
+

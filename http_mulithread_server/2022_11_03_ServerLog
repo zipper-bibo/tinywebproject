@@ -1,0 +1,260 @@
+2022-11-03 17:22:57.960433 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:57.962711 [info]: GET / HTTP/1.1
+2022-11-03 17:22:57.962734 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:57.962741 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:57.962755 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:57.962761 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2022-11-03 17:22:57.962767 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2022-11-03 17:22:57.962772 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:57.962778 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:57.962783 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:57.962789 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:57.962793 [info]: Connection: keep-alive
+2022-11-03 17:22:57.962798 [info]: Upgrade-Insecure-Requests: 1
+2022-11-03 17:22:57.962804 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-11-03 17:22:57.962809 [info]: Sec-Fetch-Dest: document
+2022-11-03 17:22:57.962814 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2022-11-03 17:22:57.962819 [info]: Sec-Fetch-Mode: navigate
+2022-11-03 17:22:57.962825 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2022-11-03 17:22:57.962829 [info]: Sec-Fetch-Site: none
+2022-11-03 17:22:57.962835 [info]: oop!unknow header: Sec-Fetch-Site: none
+2022-11-03 17:22:57.962840 [info]: Sec-Fetch-User: ?1
+2022-11-03 17:22:57.962845 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2022-11-03 17:22:57.962850 [info]: 
+2022-11-03 17:22:57.962876 [info]: request:HTTP/1.1 200 OK
+
+2022-11-03 17:22:57.962882 [info]: request:HTTP/1.1 200 OK
+Content-Length:587
+
+2022-11-03 17:22:57.962886 [info]: request:HTTP/1.1 200 OK
+Content-Length:587
+Connection:keep-alive
+
+2022-11-03 17:22:57.962891 [info]: request:HTTP/1.1 200 OK
+Content-Length:587
+Connection:keep-alive
+
+
+2022-11-03 17:22:57.962898 [info]: adjust timer once
+2022-11-03 17:22:57.963257 [info]: send data to the client(127.0.0.1)
+2022-11-03 17:22:57.963272 [info]: adjust timer once
+2022-11-03 17:22:58.244947 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.244979 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.244987 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.244993 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.245000 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.245005 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.245012 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.245017 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.245024 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.245029 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.245036 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.245041 [info]: Connection: keep-alive
+2022-11-03 17:22:58.245046 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.245052 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.245058 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.245064 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.245069 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.245076 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.245081 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.245087 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.245092 [info]: 
+2022-11-03 17:22:58.245690 [info]: adjust timer once
+2022-11-03 17:22:58.246039 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.246052 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.246067 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.246072 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.246080 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.246085 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.246091 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.246096 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.246103 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.246108 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.246114 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.246119 [info]: Connection: keep-alive
+2022-11-03 17:22:58.246124 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.246130 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.246135 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.246141 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.246146 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.246152 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.246157 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.246163 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.246168 [info]: 
+2022-11-03 17:22:58.246187 [info]: adjust timer once
+2022-11-03 17:22:58.247211 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.247233 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.247239 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.247245 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.247252 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.247257 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.247263 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.247268 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.247275 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.247280 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.247286 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.247291 [info]: Connection: keep-alive
+2022-11-03 17:22:58.247296 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.247302 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.247306 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.247313 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.247317 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.247323 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.247328 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.247334 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.247339 [info]: 
+2022-11-03 17:22:58.247362 [info]: adjust timer once
+2022-11-03 17:22:58.247810 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.247825 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.247831 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.247835 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.247842 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.247847 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.247853 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.247857 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.247863 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.247868 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.247874 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.247878 [info]: Connection: keep-alive
+2022-11-03 17:22:58.247890 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.247897 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.247901 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.247907 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.247912 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.247917 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.247922 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.247928 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.247932 [info]: 
+2022-11-03 17:22:58.247951 [info]: adjust timer once
+2022-11-03 17:22:58.248249 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.248262 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.248268 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.248273 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.248280 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.248285 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.248291 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.248296 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.248302 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.248375 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.248389 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.248394 [info]: Connection: keep-alive
+2022-11-03 17:22:58.248399 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.248405 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.248409 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.248415 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.248419 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.248425 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.248429 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.248435 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.248439 [info]: 
+2022-11-03 17:22:58.248459 [info]: adjust timer once
+2022-11-03 17:22:58.249424 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.249485 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.249494 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.249500 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.249507 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.249512 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.249518 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.249523 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.249529 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.249534 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.249540 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.249545 [info]: Connection: keep-alive
+2022-11-03 17:22:58.249550 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.249556 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.249560 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.249567 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.249572 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.249578 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.249583 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.249588 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.249593 [info]: 
+2022-11-03 17:22:58.249615 [info]: adjust timer once
+2022-11-03 17:22:58.249929 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.249941 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.249955 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.249961 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.249968 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.249973 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.249979 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.249984 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.249993 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.250002 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.250015 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.250022 [info]: Connection: keep-alive
+2022-11-03 17:22:58.250046 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.250054 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.250058 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.250064 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.250068 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.250074 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.250079 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.250084 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.250089 [info]: 
+2022-11-03 17:22:58.250109 [info]: adjust timer once
+2022-11-03 17:22:58.250388 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.250400 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.250406 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.250411 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.250417 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.250422 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.250429 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.250434 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.250440 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.250444 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.250451 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.250455 [info]: Connection: keep-alive
+2022-11-03 17:22:58.250460 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.250466 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.250471 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.250477 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.250481 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.250487 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.250492 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.250498 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.250502 [info]: 
+2022-11-03 17:22:58.250520 [info]: adjust timer once
+2022-11-03 17:22:58.253081 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.253131 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.253137 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.253142 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.253149 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.253153 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.253159 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.253164 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.253170 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.253174 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.253180 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.253184 [info]: Connection: keep-alive
+2022-11-03 17:22:58.253235 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.253245 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.253250 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.253256 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.253260 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.253266 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.253270 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.253276 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.253280 [info]: 
+2022-11-03 17:22:58.253302 [info]: adjust timer once
+2022-11-03 17:22:58.260525 [info]: deal with the client(127.0.0.1)
+2022-11-03 17:22:58.260559 [info]: GET /favicon.ico HTTP/1.1
+2022-11-03 17:22:58.260567 [info]: Host: 127.0.0.1:9091
+2022-11-03 17:22:58.260573 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.260580 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+2022-11-03 17:22:58.260585 [info]: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.260592 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2022-11-03 17:22:58.260597 [info]: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.260603 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2022-11-03 17:22:58.260608 [info]: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.260614 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2022-11-03 17:22:58.260620 [info]: Connection: keep-alive
+2022-11-03 17:22:58.260625 [info]: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.260631 [info]: oop!unknow header: Referer: http://127.0.0.1:9091/
+2022-11-03 17:22:58.260636 [info]: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.260642 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2022-11-03 17:22:58.260647 [info]: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.260653 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2022-11-03 17:22:58.260658 [info]: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.260664 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2022-11-03 17:22:58.260668 [info]: 
+2022-11-03 17:22:58.260696 [info]: adjust timer once
